@@ -1,0 +1,57 @@
+/* @media screen and (max-width:1199px){
+    
+}
+@media screen and (max-width:991px){
+    
+}
+@media screen and (max-width:767px){
+    
+}
+@media screen and (max-width:575px){
+    
+} */
+@media screen and (max-width: 575px) {
+  .check-box-padding {
+    padding: 0 0.5rem;
+  }
+  .check-box {
+    padding: 1rem 2rem;
+  }
+  .heading {
+    font-size: 4rem;
+  }
+  .client-results h3 {
+    font-size: 3rem;
+  }
+  #group-section .heading {
+    font-size: 3rem;
+  }
+}
+
+/* My Container Responsive */
+@media screen and (min-width: 0px) {
+  .my-container {
+    width: 100% !important;
+    padding: 1.5rem;
+  }
+}
+@media screen and (min-width: 576px) {
+  .my-container {
+    width: 540px !important;
+  }
+}
+@media screen and (min-width: 768px) {
+  .my-container {
+    width: 680px !important;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .my-container {
+    width: 800px !important;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .my-container {
+    width: 1140px !important;
+  }
+}
